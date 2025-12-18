@@ -1,8 +1,7 @@
 # learning-python
 
 ## Goal
-This repository documents my learning-journey using 
-the 12-hours-course by "Bro Code" on YouTube.
+Fully understanding "Python" and using it for my first selfmade projects.
 ## Topics
 Basics []
 
