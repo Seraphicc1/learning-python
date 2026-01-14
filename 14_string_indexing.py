@@ -1,3 +1,5 @@
+# [start:stop:step]
+
 credit_number = "1243-214-1244-111"
 
 credit_number[3]

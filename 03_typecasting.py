@@ -1,4 +1,4 @@
-# Useful for user input
+# Very useful for user input
 
 name = "Seraphicc"
 age = 22

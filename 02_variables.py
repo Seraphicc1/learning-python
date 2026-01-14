@@ -6,4 +6,4 @@ is_lion = False
 if is_lion:
     print(f"You are a lion!")
 else:
-    print(f"You are most likely a human...")
+    print(f"You are not a lion!")

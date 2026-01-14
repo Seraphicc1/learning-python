@@ -1,0 +1,11 @@
+adjective1 = input("Enter an adjective (description): ")
+noun1 = input("Enter a noun (plural, thing): ")
+adjective2 = input("Enter an adjective (description): ")
+verb1 = input("Enter a verb ending with ´ing´: ")
+adjective3 = input("Enter an adjective (description): ")
+
+print(f"Today I went to my {adjective1} school.")
+print(f"Inside the teachers desk I saw {noun1}.")
+print(f"The {noun1} were {adjective2}!")
+print(f"I started {verb1} them just for fun.")
+print(f"After that I really felt {adjective3}!")
