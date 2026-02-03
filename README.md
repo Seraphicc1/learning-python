@@ -14,3 +14,7 @@ Basics [X]
 
 ## Projects
 Coming soon.
+
+## THE END
+I have stopped learning Python because I wanted to start with something practical right away. I decided to start making my own 2.5D Roguelike inspired by Hades 2.
+But I have to say, learning Python theory was a good start. I got more comfortable with programming languages and debugging, also I developed some creativity when it comes to solving problems with a different coding approach.
